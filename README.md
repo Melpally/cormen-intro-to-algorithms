@@ -1,2 +1,4 @@
-# cormen-intro-to-algorithms
-📚 Solutions to the problems/exercises in the Introduction to Algorithms by Cormen et al, Third Edition. 
+# Solutions to Intro to Algorithms
+📚 This is a collection of the solutions to the problems
+TODO:
+plan out - divide and conquer!
